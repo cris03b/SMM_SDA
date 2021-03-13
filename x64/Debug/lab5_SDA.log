@@ -1,0 +1,9 @@
+﻿  ExtendedTest.cpp
+D:\Visual Studio\SDA\SMM_SDA\ExtendedTest.cpp(187,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio\SDA\SMM_SDA\ExtendedTest.cpp(206,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab5_SDA.cpp
+  ShortTest.cpp
+  SMMIterator.cpp
+  SortedMultiMap.cpp
+  Generating Code...
+  lab5_SDA.vcxproj -> D:\Visual Studio\SDA\SMM_SDA\x64\Debug\lab5_SDA.exe
